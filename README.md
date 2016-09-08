@@ -1,1 +1,1 @@
-# LepaySDK
+# lepay-sdk
